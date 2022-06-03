@@ -31,4 +31,5 @@ I'm human who always looking for new knowledge that's why I came in rs-school. I
  ******
 - English : A2 (I study English with a tutor every week to improve it.)
 - Polish : A1
+- Russian : native
 
